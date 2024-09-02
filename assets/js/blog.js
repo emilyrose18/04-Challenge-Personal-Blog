@@ -7,6 +7,8 @@ window.onload = function() {
         let user = document.createElement('div');
         let content = document.createElement('div');
 
+        post.setAttribute('id', 'postId');
+        
         title.textContent = item.title;
         title.setAttribute('id', 'titleId');
 

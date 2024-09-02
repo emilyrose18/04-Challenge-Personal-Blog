@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(243, 252, 255);
+  }
+
+#header{
+    height: 30px;
+    border-bottom-color: rgb(6, 0, 54);
+    border-bottom-style: double;
+    border-bottom-width: 10px;
+  }

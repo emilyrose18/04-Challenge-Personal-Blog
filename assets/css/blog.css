@@ -1,0 +1,41 @@
+#postId{
+border-color: rgb(6, 0, 54);
+border-style: groove;
+margin: 10px;
+}
+
+#titleId{
+    margin: 10px;
+    border-bottom-color: rgb(6, 0, 54);
+    border-bottom-style: groove;
+    font-weight: bold;
+
+}
+
+#contentId{
+    margin: 5px 10px 30px 25px;
+}
+
+#userId{
+    padding: 10px 10px 5px 10px;
+    color: grey;
+    font-size: small;
+}
+
+
+#header{
+    display: flex;
+  }
+
+
+  #footer{
+    position:fixed;
+    bottom:0;
+    background-color: aliceblue;
+    width:100%;
+    border-top-color: rgb(6, 0, 54);
+    border-top-style: double;
+    border-top-width: 10px;
+
+
+   }

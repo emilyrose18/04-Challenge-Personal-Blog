@@ -1,9 +1,7 @@
 #flex {
     display: flex;
-    border-top-color: rgb(6, 0, 54);
-    border-top-style: double;
-    border-top-width: 10px;
 }
+
 body {
     background-color: rgb(243, 252, 255);
   }
@@ -81,3 +79,5 @@ body {
 h2 {
   text-align: center;
 }
+
+
