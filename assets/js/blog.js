@@ -27,6 +27,9 @@ window.onload = function() {
 
   const backButton = document.getElementById('backButton');
   backButton.addEventListener('click', goBack);
+  function goBack(event) {
+    window.location.replace("https://emilyrose18.github.io/04-Challenge-Personal-Blog/");
+  }
   
 
 

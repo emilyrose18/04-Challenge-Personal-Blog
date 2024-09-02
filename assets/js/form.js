@@ -10,6 +10,8 @@ function formValidation(event) {
   } else {
     event.preventDefault()
     store();
+    window.location.replace("https://emilyrose18.github.io/04-Challenge-Personal-Blog/blog");
+
   };
 };
 
